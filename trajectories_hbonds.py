@@ -7,7 +7,7 @@ Created on 17 Mar. 2022
 __author__ = "Nicolas JEANNE"
 __copyright__ = "GNU General Public License"
 __email__ = "jeanne.n@chu-toulouse.fr"
-__version__ = "1.1.0"
+__version__ = "1.2.0"
 
 import argparse
 import logging
